@@ -1,0 +1,43 @@
+/*add color to the background */
+body {
+  background:rgba(135, 226, 255, 0.2);
+  font-family:verdana;
+  float:left;
+}
+p {
+  color:#6c88c7;
+  font-family:cursive;
+  text-align:center;
+  font-size:20px;
+  float: left;
+  text-align: center;
+  
+}
+/*Title*/
+h1{
+  font-weight: bold;
+  color: #f8ea6f;
+  text-align:left;
+  float:center;
+}
+/*Item*/
+h2 {
+  color:#f8ea6f;
+  font-family: sans-serif;
+    font-weight:bold;
+    float:center;
+    
+}
+/*Ingredients*/
+li{
+  font-weight:bold;
+  font-family:verdana;
+  color:#6c88c7;
+}
+/*picture*/
+img{
+  float:right;
+  width:140xp;
+  height:160px;
+}
+/*End*
